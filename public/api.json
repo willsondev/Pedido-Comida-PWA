@@ -1,0 +1,62 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "title": "Café",
+        "thumbnailUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 750,
+        "id": 2,
+        "title": "Té verde",
+        "thumbnailUrl": "https://picsum.photos/id/10/600"
+    },
+    {
+        "precio": 300,
+        "id": 3,
+        "title": "Galletas",
+        "thumbnailUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+        "precio": 1200,
+        "id": 4,
+        "title": "Cafetera",
+        "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 180,
+        "id": 5,
+        "title": "Chocolate",
+        "thumbnailUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+        "precio": 900,
+        "id": 6,
+        "title": "Tostadora",
+        "thumbnailUrl": "https://picsum.photos/id/50/600"
+    },
+    {
+        "precio": 2000,
+        "id": 7,
+        "title": "Licuadora",
+        "thumbnailUrl": "https://picsum.photos/id/60/600"
+    },
+    {
+        "precio": 420,
+        "id": 8,
+        "title": "Mermelada",
+        "thumbnailUrl": "https://picsum.photos/id/70/600"
+    },
+    {
+        "precio": 650,
+        "id": 9,
+        "title": "Cuchillo",
+        "thumbnailUrl": "https://picsum.photos/id/80/600"
+    },
+    {
+        "precio": 1500,
+        "id": 10,
+        "title": "Microondas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    }
+]

@@ -2,61 +2,295 @@
     {
         "precio": 500,
         "id": 1,
-        "title": "Café",
+        "title": "Completo Normal",
+        "categoria": "Completos",
         "thumbnailUrl": "https://picsum.photos/id/0/600"
     },
     {
         "precio": 750,
         "id": 2,
-        "title": "Té verde",
+        "title": "Ass Lomito",
+        "categoria": "Completos",
         "thumbnailUrl": "https://picsum.photos/id/10/600"
     },
     {
         "precio": 300,
         "id": 3,
-        "title": "Galletas",
+        "title": "Ass Mechada",
+        "categoria": "Completos",
         "thumbnailUrl": "https://picsum.photos/id/20/600"
     },
     {
         "precio": 1200,
         "id": 4,
-        "title": "Cafetera",
+        "title": "Ass Vacuno",
+        "categoria": "Completos",
         "thumbnailUrl": "https://picsum.photos/id/30/600"
     },
     {
         "precio": 180,
         "id": 5,
-        "title": "Chocolate",
+        "title": "Churrasco Mechada",
+        "categoria": "Churrascos",
         "thumbnailUrl": "https://picsum.photos/id/40/600"
     },
     {
         "precio": 900,
         "id": 6,
-        "title": "Tostadora",
+        "title": "Churrasco Lomito",
+        "categoria": "Churrascos",
         "thumbnailUrl": "https://picsum.photos/id/50/600"
     },
     {
         "precio": 2000,
         "id": 7,
-        "title": "Licuadora",
+        "title": "Churrasco Ave mayo",
+        "categoria": "Churrasco",
         "thumbnailUrl": "https://picsum.photos/id/60/600"
     },
     {
         "precio": 420,
         "id": 8,
-        "title": "Mermelada",
+        "title": "Churrasco Ave Mayo Palta",
+        "categoria": "Churrascos",
         "thumbnailUrl": "https://picsum.photos/id/70/600"
     },
     {
         "precio": 650,
         "id": 9,
-        "title": "Cuchillo",
+        "title": "Churrasco Vacuno",
+        "categoria": "Churrascos",
         "thumbnailUrl": "https://picsum.photos/id/80/600"
     },
     {
         "precio": 1500,
         "id": 10,
-        "title": "Microondas",
+        "title": "Churrasco Barros luco",
+        "categoria": "Churrascos",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 11,
+        "title": "Churrasca Sola",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 12,
+        "title": "Churrasca Mantequilla",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 13,
+        "title": "Churrasca Queso",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 14,
+        "title": "Churrasca Ave Mayo",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 15,
+        "title": "Churrasca Ave Mayo Palta",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 16,
+        "title": "Churrasca Jamon",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 17,
+        "title": "Churrasca Aliado",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 18,
+        "title": "Churrasca Queso Cabeza",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 19,
+        "title": "Churrasca Huevo",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 20,
+        "title": "Churrasca Palta",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 21,
+        "title": "Churrasca Mechada",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 22,
+        "title": "Churrasca Mechada Palta",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 23,
+        "title": "Churrasca Arrollado Casero",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 24,
+        "title": "Churrasca Pernil",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 25,
+        "title": "Churrasca Ave Palta",
+        "categoria": "Churrascas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 26,
+        "title": "Sopaipilla Sola",
+        "categoria": "Sopaipillas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 27,
+        "title": "Sopaipilla Palta Queso",
+        "categoria": "Sopaipillas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 28,
+        "title": "Sopaipilla Queso",
+        "categoria": "Sopaipillas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 29,
+        "title": "Sopaipilla Mechada Palta",
+        "categoria": "Sopaipillas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 30,
+        "title": "Empanadas de Queso",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 31,
+        "title": "Papas Fritas",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 3500,
+        "id": 32,
+        "title": "Salchipapas",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 2000,
+        "id": 33,
+        "title": "Salchipapas",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 34,
+        "title": "Papas Mechadas",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 35,
+        "title": "Queso",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 36,
+        "title": "Jamon",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 37,
+        "title": "Palta",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 38,
+        "title": "Nugget",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 39,
+        "title": "Colación",
+        "categoria": "Extras",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 40,
+        "title": "Té",
+        "categoria": "Bebidas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 41,
+        "title": "Café",
+        "categoria": "Bebidas",
+        "thumbnailUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 1500,
+        "id": 42,
+        "title": "Milo",
+        "categoria": "Bebidas",
         "thumbnailUrl": "https://picsum.photos/id/90/600"
     }
 ]

